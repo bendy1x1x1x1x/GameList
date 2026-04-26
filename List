@@ -1,7 +1,8 @@
-getgenv().Games = {
-    [3623096087] = "https://raw.githubusercontent.com/bendy1x1x1x1x/Games/refs/heads/main/MuscleLegends", -- Muscle Legends
-    [3101667897] = "https://raw.githubusercontent.com/bendy1x1x1x1x/Games/refs/heads/main/LegendsOfSpeed", -- Legend of Speed
-    [3956818381] = "https://raw.githubusercontent.com/bendy1x1x1x1x/Games/refs/heads/main/NinjaLegends", -- NInja Legends
-    [6447798030] = "", -- Funky Friday
-    [189707] = "" -- Natural Disaster
+-- GameList/List
+return {
+    [3623096087] = "https://raw.githubusercontent.com/bendy1x1x1x1x/Games/refs/heads/main/MuscleLegends",
+    [3101667897] = "https://raw.githubusercontent.com/bendy1x1x1x1x/Games/refs/heads/main/LegendsOfSpeed",
+    [3956818381] = "https://raw.githubusercontent.com/bendy1x1x1x1x/Games/refs/heads/main/NinjaLegends",
+    [6447798030] = "",
+    [189707] = ""
 }
